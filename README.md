@@ -2,18 +2,18 @@
 
 ## Team Log Table of Content
 
--[Week 3 Team Log](#week-3-team-log)
--[Week 4 Team Log](#week-4-team-log)
--[Week 5 Team Log](#week-5-team-log)
--[Week 6 Team Log](#week-6-team-log)
--[Week 7 Team Log](#week-7-team-log)
--[Week 8 Team Log](#week-8-team-log)
--[Week 9 Team Log](#week-9-team-log)
--[Week 10 Team Log](#week-10-team-log)
--[Week 11 Team Log](#week-11-team-log)
--[Week 12 Team Log](#week-12-team-log)
--[Week 13 Team Log](#week-13-team-log)
--[Week 14 Team Log](#week-14-team-log)
+- [Week 3 Team Log](#week-3-team-log)
+- [Week 4 Team Log](#week-4-team-log)
+- [Week 5 Team Log](#week-5-team-log)
+- [Week 6 Team Log](#week-6-team-log)
+- [Week 7 Team Log](#week-7-team-log)
+- [Week 8 Team Log](#week-8-team-log)
+- [Week 9 Team Log](#week-9-team-log)
+- [Week 10 Team Log](#week-10-team-log)
+- [Week 11 Team Log](#week-11-team-log)
+- [Week 12 Team Log](#week-12-team-log)
+- [Week 13 Team Log](#week-13-team-log)
+- [Week 14 Team Log](#week-14-team-log)
 
 ## WEEK 3 TEAM LOG
 (SEP 15 - 21, 2025)
