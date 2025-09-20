@@ -1,6 +1,6 @@
 # COSC499 Team 127 Personal Log - Parsa Aminian (41202862)
 
-## Week 3 Personal Log
+## Week 3 Personal Log [Sept 15 – Sept 21, 2025]
 
 This week I contributed to multiple parts of our project’s requirement specification document:
 
