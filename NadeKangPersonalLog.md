@@ -1,7 +1,12 @@
 # COSC 499 TEAM 17 Personal Log - Nade Kang 57225856
 
-## Week 3 Personal Log (Sep 15 - 21, 2025)
+## Table of Contents
 
+- [Week 3 Personal Log](#wekk-3-personal-log)
+
+## Week 3 Personal Log
+
+- (Sep 15 - 21, 2025)
 - Worked on Project Requirements Documentation
 - Worked on Functional Requirements Part
 - Worked on Non-Functional Requirements Part
