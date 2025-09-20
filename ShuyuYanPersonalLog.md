@@ -4,7 +4,8 @@
 
 ### 1. Type of Tasks Worked On
 
-<img width="1208" height="613" alt="Screenshot 2025-09-20 at 4 32 15 PM" src="https://github.com/user-attachments/assets/a3b0260d-2044-46ce-9c8b-358a755720c0" />
+<img width="1047" height="598" alt="Screenshot 2025-09-20 at 4 50 39 PM" src="https://github.com/user-attachments/assets/0914c3cc-61b8-4ad5-b780-70656426e655" />
+
 
 ### 2. Weekly Goals Recap
 - Worked on Project Requirements Documentation  
