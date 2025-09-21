@@ -7,6 +7,9 @@
 ## Week 3 Personal Log
 
 - (Sep 15 - 21, 2025)
+
+![Nade Kang Week 3 Personal Log](https://github.com/ErenSun408/COSC499-Team17/blob/main/personal_log_img/NADE_KANG_COSC499_WEEK3_PEER-EVAL.JPG?raw=true)
+
 - Worked on Project Requirements Documentation
 - Worked on Functional Requirements Part
 - Worked on Non-Functional Requirements Part
