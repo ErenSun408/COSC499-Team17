@@ -1,6 +1,8 @@
 # Shuyu Yan– Project Log  46070686
 
 ## Week3 Personal Log [Sept 15 – Sept 21, 2025]
+## Table of Contents
+- [Week 3 Personal Log](#week-3-personal-log-sep-15-21-2025)
 
 ### 1. Type of Tasks Worked On
 
